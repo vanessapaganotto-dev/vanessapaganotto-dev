@@ -1,16 +1,33 @@
 ## Hi there 👋
 
-<!--
-**vanessapaganotto-dev/vanessapaganotto-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Salut, moi c'est Vanessa 👋
 
-Here are some ideas to get you started:
+Je suis en recherche de stage en développement web / programmation backend.  
+Passionnée par PHP, JavaScript, SQL et la gestion de bases de données.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technologies & outils
+
+- PHP, JavaScript, HTML, CSS  
+- MySQL, bases de données relationnelles  
+- Bootstrap, AJAX  
+- Git, GitHub
+- Angular
+
+---
+
+## Projets phares
+
+- [Gestion de planning hebdomadaire](https://github.com/tonpseudo/gestion-planning) — Application interactive pour gérer des réservations hebdo.  
+- [Convertisseur de notes musicales](https://github.com/tonpseudo/convertisseur-notes) — Conversion dynamique de notes classiques vers notation américaine.  
+- [Base de données pédagogique](https://github.com/tonpseudo/bdd_devoir3) — Dump SQL complet avec tables et données d'exemple pour gestion de cours et devoirs.  
+
+---
+
+## Contact
+
+- 📧 rachelpag19@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vanessapaganotto)
+
+N'hésite pas à me contacter pour échanger ou collaborer ! 🙂
