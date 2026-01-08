@@ -3,7 +3,7 @@
 
 # Salut, moi c'est Vanessa 👋
 
-Je suis en recherche de stage en développement web / programmation backend.  
+Je suis en recherche de stage en développement web / programmation frontend / backend.  
 Passionnée par PHP, JavaScript, SQL et la gestion de bases de données.  
 
 ---
