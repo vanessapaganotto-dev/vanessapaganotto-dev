@@ -1,3 +1,5 @@
+🇫🇷 Version française disponible ici → [README.md](README.md)
+
 # Hi, I’m Vanessa 👋
 
 I’m looking for an internship in web development / backend programming.  
