@@ -2,7 +2,7 @@
 
 # Hi, I’m Vanessa 👋
 
-I’m looking for an internship in web development / backend programming.  
+I’m looking for an internship in web development / fronted - backend programming.  
 Passionate about PHP, JavaScript, SQL, and database management.
 
 ---
