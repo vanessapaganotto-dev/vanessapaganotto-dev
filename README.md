@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Salut, moi c'est Vanessa 👋
 
 Je suis en recherche de stage en développement web / programmation backend.  
