@@ -32,3 +32,9 @@ Passionnée par PHP, JavaScript, SQL et la gestion de bases de données.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vanessapaganotto)
 
 N'hésite pas à me contacter pour échanger ou collaborer ! 🙂
+
+---
+
+## Licence
+
+Ce projet est sous licence MIT — voir le fichier [LICENSE](./LICENSE) pour plus de détails.
