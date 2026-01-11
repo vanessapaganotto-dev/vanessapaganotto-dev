@@ -14,7 +14,7 @@ Passionnée par PHP, JavaScript, SQL et la gestion de bases de données.
 - MySQL, bases de données relationnelles  
 - Bootstrap, AJAX  
 - Git, GitHub
-- Angular
+- Framework Angular
 
 ---
 
