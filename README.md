@@ -30,7 +30,7 @@ Passionnée par PHP, JavaScript, SQL et la gestion de bases de données.
 ## Contact
 
 - 📧 rachelpag19@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vanessapaganotto)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vanessa-p-317185336)
 
 N'hésite pas à me contacter pour échanger ou collaborer ! 🙂
 
