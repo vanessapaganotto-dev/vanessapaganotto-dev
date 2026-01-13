@@ -15,6 +15,7 @@ Passionnée par PHP, JavaScript, SQL et la gestion de bases de données.
 - Bootstrap, AJAX  
 - Git, GitHub
 - Framework Angular
+- Sigma 
 
 ---
 
