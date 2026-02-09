@@ -11,8 +11,9 @@ Passionate about PHP, JavaScript, SQL, and database management.
 - PHP, JavaScript, HTML, CSS  
 - MySQL, relational databases  
 - Bootstrap, AJAX  
-- Git, GitHub  
+- GitHub  
 - Angular
+- MongoDB
 
 ---
 
